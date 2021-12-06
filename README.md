@@ -1,2 +1,3 @@
 # Astica-icons
-macOS-Style Icons
+
+Astica icons is Mac-like icon pack for Linux.
