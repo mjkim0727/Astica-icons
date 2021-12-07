@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="network-cellular-signal-none-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="16px"
+     showguides="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="-2.9610096"
+     inkscape:cy="9.678524"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect31"
+     style="fill:#eff0f1;fill-rule:evenodd;stroke-width:1.20871"
+     d="M 15 1 L 0 16 L 10 16 L 10 15 L 2.4140625 15 L 14 3.4140625 L 14 10 L 15 10 L 15 1 z "
+     transform="scale(0.26458333)" />
+  <path
+     id="rect3400"
+     style="fill:#eff0f1;stroke-width:0.306816"
+     d="M 3.0975054,2.9104166 2.9104167,3.0975053 3.3847865,3.5719034 2.9104164,4.0463019 3.0975049,4.2333905 3.5718754,3.7589923 4.0462449,4.2333901 4.2333336,4.0463014 3.7589641,3.5719036 4.2333338,3.0975056 4.0462453,2.9104171 3.5718752,3.3848147 Z"
+     sodipodi:nodetypes="ccccccccccccc" />
+</svg>

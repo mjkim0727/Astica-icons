@@ -1,1 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" enable-background="new"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter></defs><g transform="translate(-260 327.003)" color="#5d656b" fill="#5d656b"><rect height="12" ry=".5" style="marker:none" width="2" x="270" y="-324.003" overflow="visible" enable-background="accumulate"/><rect height="9" ry=".5" style="marker:none" width="2" x="267" y="-321.003" overflow="visible" enable-background="accumulate"/><rect height="6" ry=".5" style="marker:none" width="2" x="264" y="-318.003" overflow="visible" enable-background="accumulate"/><rect height="3" ry=".5" style="marker:none" width="2" x="261" y="-315.003" overflow="visible" enable-background="accumulate"/><rect height="15" ry=".5" style="marker:none" width="2" x="273" y="-327.003" overflow="visible" enable-background="accumulate"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="network-cellular-signal-excellent-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="16px"
+     showguides="false"
+     inkscape:zoom="32"
+     inkscape:cx="6.921875"
+     inkscape:cy="10.828125"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect31"
+     style="fill:#5d656b;fill-rule:evenodd;stroke-width:0.319805"
+     d="M 3.9687582,0.26457507 0,4.2333333 H 3.9687582 Z M 3.7041749,0.90329577 V 3.96875 H 0.6387207 Z"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     id="rect1782"
+     style="fill:#5d656b;stroke-width:0.235185"
+     d="M 3.4395916,1.5875 V 3.7041667 H 1.3229249 Z"
+     sodipodi:nodetypes="cccc" />
+</svg>

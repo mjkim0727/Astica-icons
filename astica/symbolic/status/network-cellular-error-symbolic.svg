@@ -1,10 +1,52 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-260 327)" color="#5d656b" fill="#5d656b">
-  <path transform="translate(260 -327)" d="m10.5 3c-0.277 0-0.5 0.223-0.5 0.5v11c0 0.277 0.223 0.5 0.5 0.5h0.5v-2-1h0.24219l-0.24219-1.9375v-4.0625-1h1v-1.5c0-0.277-0.223-0.5-0.5-0.5h-1z"/>
-  <rect x="267" y="-321" width="2" height="9" ry=".5" overflow="visible"/>
-  <rect x="264" y="-318" width="2" height="6" ry=".5" overflow="visible"/>
-  <rect x="261" y="-315" width="2" height="3" ry=".5" overflow="visible"/>
-  <path transform="translate(260 -327)" d="m13.5 0c-0.277 0-0.5 0.223-0.5 0.5v4.5h2v-4.5c0-0.277-0.223-0.5-0.5-0.5h-1zm1.5 10.062-0.24219 1.9375h0.24219v-1.9375z"/>
- </g>
- <path class="warning" d="M12 6v4l.25 2h1.5l.25-2V6zm0 7v2h2v-2z" fill="#f55"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="network-cellular-error-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="16px"
+     showguides="false"
+     inkscape:zoom="45.254836"
+     inkscape:cx="14.926582"
+     inkscape:cy="13.291397"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect31"
+     style="fill:#5d656b;fill-rule:evenodd;stroke-width:1.20871"
+     d="M 15,1 0,16 H 12 V 15 H 2.4140625 L 14,3.4140625 V 8 h 1 z"
+     transform="scale(0.26458333)"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     id="path844"
+     class="warning"
+     style="fill:#ff5555;stroke-width:1.10122;fill-opacity:1"
+     d="M 13 9 L 13 14 L 14 14 L 14 9 L 13 9 z M 13.474609 15 C 13.210425 15.013392 13 15.232487 13 15.5 C 13 15.776142 13.223858 16 13.5 16 C 13.776142 16 14 15.776142 14 15.5 C 14 15.223858 13.776142 15 13.5 15 C 13.491371 15 13.483131 14.999568 13.474609 15 z "
+     transform="scale(0.26458333)" />
 </svg>
