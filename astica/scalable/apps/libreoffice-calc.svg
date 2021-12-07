@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="libreoffice5.0-calc.svg"
+   sodipodi:docname="libreoffice-calc.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,9 +26,9 @@
      showgrid="false"
      units="px"
      height="48px"
-     inkscape:zoom="5.656854"
-     inkscape:cx="-14.142136"
-     inkscape:cy="26.339729"
+     inkscape:zoom="1.9999999"
+     inkscape:cx="-107.00001"
+     inkscape:cy="-60.500003"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -38,6 +38,30 @@
      inkscape:lockguides="true" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4236">
+      <stop
+         style="stop-color:#5e9e4a;stop-opacity:1;"
+         offset="0"
+         id="stop4232" />
+      <stop
+         style="stop-color:#0f9c1e;stop-opacity:1"
+         offset="1"
+         id="stop4234" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3890">
+      <stop
+         style="stop-color:#b9deac;stop-opacity:1"
+         offset="0"
+         id="stop3886" />
+      <stop
+         style="stop-color:#95cd82;stop-opacity:1"
+         offset="1"
+         id="stop3888" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1721">
@@ -84,6 +108,24 @@
        x2="16.933332"
        y2="-2.7838135e-07"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3890"
+       id="linearGradient3892"
+       x1="5.0270834"
+       y1="4.8947916"
+       x2="5.0270834"
+       y2="9.6572914"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4236"
+       id="linearGradient4238"
+       x1="16"
+       y1="21.5"
+       x2="46"
+       y2="47.5"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      id="rect846-3"
@@ -101,7 +143,51 @@
      sodipodi:nodetypes="sccssssss" />
   <path
      id="rect854"
-     style="fill:#6a8761;stroke-width:5.43356;stroke-linejoin:round;fill-opacity:1"
-     d="M 18 24 L 18 46 L 46 46 L 46 24 L 18 24 z M 19 28 L 27 28 L 27 33 L 19 33 L 19 28 z M 28 28 L 36 28 L 36 33 L 28 33 L 28 28 z M 37 28 L 45 28 L 45 33 L 37 33 L 37 28 z M 19 34 L 27 34 L 27 39 L 19 39 L 19 34 z M 28 34 L 36 34 L 36 39 L 28 39 L 28 34 z M 37 34 L 45 34 L 45 39 L 37 39 L 37 34 z M 19 40 L 27 40 L 27 45 L 19 45 L 19 40 z M 28 40 L 36 40 L 36 45 L 28 45 L 28 40 z M 37 40 L 45 40 L 45 45 L 37 45 L 37 40 z "
+     style="fill:url(#linearGradient4238);fill-opacity:1;stroke-width:5.43356;stroke-linejoin:round"
+     d="M 18 21 L 18 46 L 46 46 L 46 21 L 18 21 z M 19 22 L 45 22 L 45 27 L 19 27 L 19 22 z M 19 28 L 27 28 L 27 33 L 19 33 L 19 28 z M 28 28 L 36 28 L 36 33 L 28 33 L 28 28 z M 37 28 L 45 28 L 45 33 L 37 33 L 37 28 z M 19 34 L 27 34 L 27 39 L 19 39 L 19 34 z M 28 34 L 36 34 L 36 39 L 28 39 L 28 34 z M 37 34 L 45 34 L 45 39 L 37 39 L 37 34 z M 19 40 L 27 40 L 27 45 L 19 45 L 19 40 z M 28 40 L 36 40 L 36 45 L 28 45 L 28 40 z M 37 40 L 45 40 L 45 45 L 37 45 L 37 40 z "
      transform="scale(0.26458333)" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient3892);stroke-width:0.529167;stroke-linejoin:round;fill-opacity:1"
+     id="rect855"
+     width="6.8791666"
+     height="1.3229166"
+     x="5.0270834"
+     y="5.8208332" />
+  <rect
+     style="fill:#b3b3b3;stroke-width:0.483319;stroke-linejoin:round"
+     id="rect864"
+     width="3.4395833"
+     height="3.175"
+     x="8.9958324"
+     y="9.5249996"
+     ry="0.26458332" />
+  <rect
+     style="fill:#ffffff;stroke-width:0.474913;stroke-linejoin:round"
+     id="rect868"
+     width="2.9104166"
+     height="2.6458333"
+     x="9.260416"
+     y="9.7895832" />
+  <rect
+     style="fill:#40bdff;fill-opacity:1;stroke-width:0.683151;stroke-linejoin:round"
+     id="rect1289"
+     width="0.52916718"
+     height="1.3229166"
+     x="9.5249996"
+     y="11.1125"
+     ry="0" />
+  <rect
+     style="fill:#ff9640;fill-opacity:1;stroke-width:0.748355;stroke-linejoin:round"
+     id="rect2871"
+     width="0.79374999"
+     height="2.1166666"
+     x="10.318749"
+     y="10.31875" />
+  <rect
+     style="fill:#ffd140;fill-opacity:1;stroke-width:0.473301;stroke-linejoin:round"
+     id="rect3261"
+     width="0.52916718"
+     height="1.0583333"
+     x="11.377083"
+     y="11.377084" />
 </svg>

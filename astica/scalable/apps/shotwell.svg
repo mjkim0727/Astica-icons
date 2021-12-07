@@ -28,9 +28,9 @@
      height="48px"
      inkscape:zoom="7.9999996"
      inkscape:cx="29.125001"
-     inkscape:cy="25.812501"
+     inkscape:cy="25.750001"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,6 +38,18 @@
      inkscape:lockguides="true" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1038">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1034" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop1036" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient8639">
@@ -66,11 +78,11 @@
        inkscape:collect="always"
        id="linearGradient2234">
       <stop
-         style="stop-color:#e52d9c;stop-opacity:1"
+         style="stop-color:#cc599e;stop-opacity:1"
          offset="0"
          id="stop2230" />
       <stop
-         style="stop-color:#6f30fd;stop-opacity:1"
+         style="stop-color:#9876e1;stop-opacity:1"
          offset="1"
          id="stop2232" />
     </linearGradient>
@@ -147,11 +159,25 @@
        x2="14.552083"
        y2="16.536457"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1038"
+       id="linearGradient1040"
+       x1="22.056641"
+       y1="30.5"
+       x2="27.949219"
+       y2="50.5"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      id="rect846-3"
      style="fill:url(#linearGradient2236);stroke-width:0.337527;fill-opacity:1"
      d="m 3.175,1.5875 h 10.583333 c 0.879475,0 1.5875,0.708025 1.5875,1.5875 v 10.583333 c 0,0.879475 -0.708025,1.5875 -1.5875,1.5875 H 3.175 c -0.879475,0 -1.5875,-0.708025 -1.5875,-1.5875 V 3.175 c 0,-0.879475 0.708025,-1.5875 1.5875,-1.5875 z" />
+  <path
+     id="path887"
+     style="opacity:1;fill:url(#linearGradient1040);fill-opacity:1;stroke-width:2.36165;stroke-linejoin:round"
+     d="M 24 36 A 9.9999999 9.9999999 0 0 0 14.056641 45 L 33.949219 45 A 9.9999999 9.9999999 0 0 0 24 36 z "
+     transform="scale(0.26458333)" />
   <path
      id="rect3032"
      style="opacity:0.3;fill:url(#linearGradient3194);fill-opacity:1;stroke-width:6;stroke-linejoin:round"

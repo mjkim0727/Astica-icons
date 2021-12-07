@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="facebook.svg"
+   sodipodi:docname="goa-account-facebook.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -28,7 +28,7 @@
      height="48px"
      inkscape:zoom="7.9999996"
      inkscape:cx="12.250001"
-     inkscape:cy="28.312501"
+     inkscape:cy="28.250001"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -64,4 +64,9 @@
      id="rect846-3"
      style="fill:url(#linearGradient1147);stroke-width:0.337527;fill-opacity:1"
      d="m 3.175,1.5875 h 10.583333 c 0.879475,0 1.5875,0.708025 1.5875,1.5875 v 10.583333 c 0,0.879475 -0.708025,1.5875 -1.5875,1.5875 H 3.175 c -0.879475,0 -1.5875,-0.708025 -1.5875,-1.5875 V 3.175 c 0,-0.879475 0.708025,-1.5875 1.5875,-1.5875 z" />
+  <path
+     id="path29"
+     style="text-indent:0;text-decoration-line:none;text-transform:none;stroke-width:0.500001;fill:#ffffff"
+     d="M 35 16 C 35 16 27 16 27 24 L 27 32 L 21 32 L 21 40 L 27 40 L 27 58 L 35 58 L 35 40 L 42 40 L 43 32 L 35 32 L 35 26 C 35 24 37 24 37 24 L 43 24 L 43 16 L 35 16 z "
+     transform="scale(0.26458333)" />
 </svg>
