@@ -1,5 +1,8 @@
 [Icon Theme]
 Name=Astica
+Name[en]=Astica
+Name[ja]=Astica
+Name[ko]=Astica
 Comment=Mac-like icon theme
 Inherits=Breeze,Papirus,hicolor
 
