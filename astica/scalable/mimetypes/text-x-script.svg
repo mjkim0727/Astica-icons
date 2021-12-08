@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="application-vnd.ms-excel.svg"
+   sodipodi:docname="text-x-script.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,9 +26,9 @@
      showgrid="false"
      units="px"
      height="64px"
-     inkscape:zoom="8.905126"
-     inkscape:cx="20.549962"
-     inkscape:cy="39.134764"
+     inkscape:zoom="6.296875"
+     inkscape:cx="44.466501"
+     inkscape:cy="39.781638"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
      inkscape:window-x="0"
@@ -39,15 +39,15 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1440">
+       id="linearGradient1131">
       <stop
-         style="stop-color:#20ad00;stop-opacity:1;"
+         style="stop-color:#333333;stop-opacity:1"
          offset="0"
-         id="stop1436" />
+         id="stop1127" />
       <stop
-         style="stop-color:#54e700;stop-opacity:1"
+         style="stop-color:#999999;stop-opacity:1"
          offset="1"
-         id="stop1438" />
+         id="stop1129" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -116,17 +116,17 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1440"
-       id="linearGradient1442"
-       x1="14.816667"
+       xlink:href="#linearGradient1131"
+       id="linearGradient1133"
+       x1="15.345834"
        y1="16.933334"
-       x2="1.5875012"
+       x2="2.116668"
        y2="4.2529297e-07"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      id="rect1068"
-     style="fill:url(#linearGradient1442);fill-opacity:1;stroke-width:0.529167;stroke-linejoin:round"
+     style="fill:url(#linearGradient1133);fill-opacity:1;stroke-width:0.529167;stroke-linejoin:round"
      d="m 3.175,0.5291667 7.143751,3e-8 3.968749,3.96874997 1e-6,11.3770833 c 0,0.293158 -0.236009,0.529167 -0.529167,0.529167 H 3.175 c -0.2931584,0 -0.5291667,-0.236009 -0.5291667,-0.529167 V 1.0583334 c 0,-0.29315835 0.2360083,-0.5291667 0.5291667,-0.5291667 z"
      sodipodi:nodetypes="cccsssssc" />
   <path
@@ -145,12 +145,9 @@
      d="m 14.2875,4.4979167 -3.439583,-1e-7 c -0.293158,0 -0.529166,-0.2360083 -0.529166,-0.5291667 V 0.52916673 Z"
      sodipodi:nodetypes="csscc" />
   <path
-     id="rect859"
-     style="fill:#ffffff;stroke-width:0.264583"
-     d="m 9.2605287,7.2760421 v 0.529166 h 0.7937503 v 0.529167 H 9.2605287 v 0.264583 h 0.7937503 v 0.529167 H 9.2605287 v 0.264583 h 0.7937503 v 0.529167 H 9.2605287 v 0.2645839 h 0.7937503 v 0.529166 H 9.2605287 v 0.264583 h 0.7937503 v 0.529167 H 9.2605287 v 0.264583 h 0.7937503 v 0.529167 H 9.2605287 v 0.529167 H 11.906362 V 7.2760421 Z m 1.0583343,0.529166 h 1.057815 v 0.529167 h -1.057815 z m 0,0.79375 h 1.057815 v 0.529167 h -1.057815 z m 0,0.79375 h 1.057815 v 0.529167 h -1.057815 z m 0,0.7937509 h 1.057815 v 0.529166 h -1.057815 z m 0,0.793749 h 1.057815 v 0.529167 h -1.057815 z m 0,0.79375 h 1.057815 v 0.529167 h -1.057815 z" />
-  <path
-     id="rect1462"
-     style="fill:#ffffff;stroke-width:0.264583"
-     d="m 5.0269719,7.1101761 2.23e-4,5.8895469 3.9573848,0.758654 0.02273,-7.4083769 z m 1.1775602,1.664323 0.55552,-0.03191 0.365997,0.99128 0.419099,-1.040121 0.572311,-0.03449 -0.679153,1.3793379 0.700213,1.410427 -0.607582,-0.03876 -0.419998,-1.056921 -0.409018,0.99891 -0.55294,-0.0177 0.648022,-1.270825 z"
-     sodipodi:nodetypes="cccccccccccccccccc" />
+     id="rect35393"
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke-width:0.569291;stroke-linejoin:round"
+     d="m 19,30 v 1 h 26 v -1 z m 0,3 v 1 h 20 v -1 z m 0,3 v 1 h 24 v -1 z m 0,3 v 1 h 22 v -1 z m 0,3 v 1 h 24.999999 v -1 z m 0,3 v 1 h 22.999999 v -1 z m 0,3 v 1 h 18.999999 v -1 z m 0,3 v 1 h 13 v -1 z"
+     transform="scale(0.26458334)"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
 </svg>

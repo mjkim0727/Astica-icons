@@ -28,15 +28,27 @@
      height="48px"
      inkscape:zoom="8"
      inkscape:cx="19"
-     inkscape:cy="27"
+     inkscape:cy="26.75"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1019"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient910">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1"
+         offset="0"
+         id="stop906" />
+      <stop
+         style="stop-color:#ececec;stop-opacity:1"
+         offset="1"
+         id="stop908" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient2058">
@@ -107,7 +119,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3822"
+       xlink:href="#linearGradient910"
        id="linearGradient3355"
        x1="16.404167"
        y1="16.933332"
@@ -123,7 +135,7 @@
      sodipodi:nodetypes="sssssssss" />
   <path
      id="rect1440"
-     style="fill:url(#linearGradient3355);fill-opacity:1;stroke-width:1.97981;stroke-linejoin:round"
+     style="fill:url(#linearGradient3355);fill-opacity:1.0;stroke-width:1.97981;stroke-linejoin:round"
      d="M 12 6 C 8.676 6 6 8.676 6 12 L 6 52 C 6 55.324 8.676 58 12 58 L 52 58 C 55.324 58 58 55.324 58 52 L 58 12 C 58 8.676 55.324 6 52 6 L 12 6 z M 32 12 A 20 20 0 0 1 52 32 A 20 20 0 0 1 32 52 A 20 20 0 0 1 12 32 A 20 20 0 0 1 32 12 z "
      transform="scale(0.26458333)" />
   <path
