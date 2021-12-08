@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="text-x-typescript.svg"
+   sodipodi:docname="text-x-wiki.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,9 +26,9 @@
      showgrid="false"
      units="px"
      height="64px"
-     inkscape:zoom="8.8277862"
-     inkscape:cx="28.716146"
-     inkscape:cy="37.212047"
+     inkscape:zoom="10.015625"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:window-width="1541"
      inkscape:window-height="947"
      inkscape:window-x="23"
@@ -149,17 +149,11 @@
      style="fill:url(#linearGradient3380);fill-opacity:1;stroke-width:0.529167;stroke-linejoin:round"
      d="m 14.2875,4.4979167 -3.439583,-1e-7 c -0.293158,0 -0.529166,-0.2360083 -0.529166,-0.5291667 V 0.52916673 Z"
      sodipodi:nodetypes="csscc" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:1.67233px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0418081"
-     x="8.4880266"
-     y="14.699003"
-     id="text3901"><tspan
-       sodipodi:role="line"
-       id="tspan3899"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;stroke-width:0.0418081"
-       x="8.4880266"
-       y="14.699003">WIKI</tspan></text>
+  <path
+     id="path864"
+     style="font-size:1.67233px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;stroke-width:0.158015;fill:#808080;fill-opacity:1"
+     d="M 25.765625 51.0625 L 26.851562 55.554688 L 27.390625 55.554688 L 28.351562 52.28125 L 28.421875 51.9375 L 28.492188 52.28125 L 29.417969 55.554688 L 29.958984 55.554688 L 31.048828 51.0625 L 30.453125 51.0625 L 29.755859 54.134766 L 29.660156 54.740234 L 29.535156 54.197266 L 28.667969 51.0625 L 28.167969 51.0625 L 27.279297 54.197266 L 27.154297 54.730469 L 27.066406 54.138672 L 26.357422 51.0625 L 25.765625 51.0625 z M 31.748047 51.0625 L 31.748047 55.554688 L 32.341797 55.554688 L 32.341797 51.0625 L 31.748047 51.0625 z M 33.423828 51.0625 L 33.423828 55.554688 L 34.017578 55.554688 L 34.017578 54.037109 L 34.566406 53.466797 L 36.160156 55.554688 L 36.869141 55.554688 L 34.960938 53.046875 L 36.730469 51.0625 L 36.013672 51.0625 L 34.017578 53.283203 L 34.017578 51.0625 L 33.423828 51.0625 z M 37.431641 51.0625 L 37.431641 55.554688 L 38.023438 55.554688 L 38.023438 51.0625 L 37.431641 51.0625 z "
+     transform="scale(0.26458334)" />
   <text
      xml:space="preserve"
      style="font-size:10.5833px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
@@ -168,5 +162,5 @@
      id="text80811"><tspan
        sodipodi:role="line"
        id="tspan80809"
-       style="stroke-width:0.264583"></tspan></text>
+       style="stroke-width:0.264583" /></text>
 </svg>

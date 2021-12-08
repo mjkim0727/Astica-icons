@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="text-x-typescript.svg"
+   sodipodi:docname="text-x-apport.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -183,13 +183,13 @@
      sodipodi:nodetypes="csscc" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:1.67233px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0418081"
+     style="font-style:normal;font-weight:normal;font-size:1.67233px;line-height:1.25;font-family:sans-serif;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.0418081"
      x="8.4880266"
      y="14.699003"
      id="text3901"><tspan
        sodipodi:role="line"
        id="tspan3899"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;stroke-width:0.0418081"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;stroke-width:0.0418081;fill:#808080;fill-opacity:1"
        x="8.4880266"
        y="14.699003">APPORT</tspan></text>
   <path
