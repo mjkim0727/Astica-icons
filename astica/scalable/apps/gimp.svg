@@ -35,12 +35,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1011"
      id="namedview80"
      showgrid="false"
-     inkscape:zoom="4.6845824"
-     inkscape:cx="-10.032911"
-     inkscape:cy="24.44188"
+     inkscape:zoom="9.3691648"
+     inkscape:cx="17.717695"
+     inkscape:cy="28.497738"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -743,47 +743,42 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient37218"
-       id="linearGradient881"
-       x1="64.208344"
-       y1="64.062607"
-       x2="0.30528301"
-       y2="0.13507102"
+       id="linearGradient1781"
+       x1="2.8346456e-08"
+       y1="2.2677165e-07"
+       x2="64"
+       y2="64"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient37218">
       <stop
-         style="stop-color:#1a1a1a;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="0"
          id="stop37214" />
       <stop
-         style="stop-color:#e6e6e6;stop-opacity:0.00306325"
+         style="stop-color:#e6e6e6;stop-opacity:0"
          offset="0.49741825"
          id="stop37220" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#333333;stop-opacity:1"
          offset="1"
          id="stop37216" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1860"
-       id="linearGradient1862"
-       x1="99.174286"
-       y1="104.21056"
-       x2="99.174278"
-       y2="-0.94397557"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.60862804,0,0,0.60862804,1.6397487,0.57452928)" />
+       id="linearGradient1155"
+       x1="62"
+       y1="64"
+       x2="62"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
-     id="rect846-3"
-     style="fill:url(#linearGradient1862);fill-opacity:1;stroke-width:1.27569"
-     d="m 12,6 h 39.999995 c 3.323999,0 6,2.6759996 6,5.999999 v 39.999998 c 0,3.324 -2.676001,6 -6,6 H 12 c -3.3239999,0 -6,-2.676 -6,-6 V 11.999999 C 6,8.6759996 8.6760001,6 12,6 Z" />
-  <path
-     id="rect846"
-     style="opacity:0.3;fill:url(#linearGradient881);fill-opacity:1;stroke-width:1.27569"
-     d="M 12,6 C 8.6760007,6 6,8.6760002 6,11.999999 v 39.999999 c 0,3.324 2.6760007,6 6,6 h 39.999995 c 3.323999,0 6,-2.676 6,-6 V 11.999999 C 57.999995,8.6760002 55.323994,6 51.999995,6 Z m 0,0.9999993 h 39.999995 c 2.77,0 5,2.2300004 5,4.9999997 v 39.999999 c 0,2.77 -2.23,5 -5,5 H 12 c -2.7699999,0 -5.0000004,-2.23 -5.0000004,-5 V 11.999999 C 6.9999996,9.2299997 9.2300001,6.9999993 12,6.9999993 Z" />
+     id="rect863"
+     style="fill:url(#linearGradient1155);stroke-width:0.999999;fill-opacity:1"
+     d="m 12.000001,4 h 39.999998 c 4.432003,0 8.000002,3.568002 8.000002,8.000001 v 39.999998 c 0,4.432003 -3.567999,8.000002 -8.000002,8.000002 H 12.000001 C 7.568002,60.000001 4,56.432002 4,51.999999 V 12.000001 C 4,7.568002 7.568002,4 12.000001,4 Z" />
   <path
      d="m 21.081591,22.496051 c 0,0 2.374244,4.89602 7.928641,4.757897 11.639928,-0.292023 13.681049,-6.364022 13.973071,-7.24009 0.292023,-0.876069 0.738854,-0.743367 0.842161,0.0663 3.796296,34.458694 -26.345759,19.673813 -27.416238,13.804788 5.986468,-1.752137 4.526353,-5.1104 4.526353,-5.1104 z"
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient4354-5);fill-opacity:1;fill-rule:evenodd;stroke:#2e3436;stroke-width:0.825963;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
@@ -870,4 +865,8 @@
      d="m 31.512457,38.411296 c 1.236777,0.118189 2.353695,-0.224838 2.818105,-0.391546 0.08113,-0.45873 0.443174,-1.339102 1.689999,-1.397095 l -0.438035,-0.766559 c 0,0 -1.624377,1.113337 -3.358263,1.441862 z"
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4330-73);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.825963;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
      id="path8532" />
+  <path
+     id="rect1345"
+     style="opacity:0.3;fill:url(#linearGradient1781);fill-opacity:1;stroke-width:0.999999"
+     d="M 12.000001,4 C 7.568002,4 4,7.568002 4,12.000001 v 39.999998 c 0,4.432003 3.568002,8.000002 8.000001,8.000002 h 40.000002 c 4.431999,0 7.999998,-3.567999 7.999998,-8.000002 V 12.000001 C 60.000001,7.568002 56.432002,4 52.000003,4 Z m 0,1.000002 h 40.000002 c 3.877999,0 6.999999,3.122 6.999999,6.999999 v 39.999998 c 0,3.878 -3.122,7.000003 -6.999999,7.000003 H 12.000001 c -3.877999,0 -6.999999,-3.122003 -6.999999,-7.000003 V 12.000001 c 0,-3.877999 3.122,-6.999999 6.999999,-6.999999 z" />
 </svg>

@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="gnome-chess.svg"
+   sodipodi:docname="chess.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,11 +26,11 @@
      showgrid="false"
      units="px"
      height="48px"
-     inkscape:zoom="7.9999996"
-     inkscape:cx="15.875001"
-     inkscape:cy="39.437502"
+     inkscape:zoom="5.656854"
+     inkscape:cx="-0.88388352"
+     inkscape:cy="34.471457"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -62,31 +62,6 @@
          offset="1"
          id="stop1707" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient37218">
-      <stop
-         style="stop-color:#1a1a1a;stop-opacity:1"
-         offset="0"
-         id="stop37214" />
-      <stop
-         style="stop-color:#e6e6e6;stop-opacity:0.00306325"
-         offset="0.49741825"
-         id="stop37220" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="1"
-         id="stop37216" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient37218"
-       id="linearGradient881"
-       x1="64.208344"
-       y1="64.062607"
-       x2="0.30528301"
-       y2="0.13507102"
-       gradientUnits="userSpaceOnUse" />
     <filter
        color-interpolation-filters="sRGB"
        height="1.1100008"
@@ -122,15 +97,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1709"
-       id="linearGradient1711"
-       x1="0.52916664"
-       y1="16.933332"
-       x2="0.52916646"
-       y2="-2.7321624e-07"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient2408"
        id="linearGradient2410"
        x1="2.9104168"
@@ -139,16 +105,50 @@
        y2="3.9687557"
        gradientUnits="userSpaceOnUse"
        gradientTransform="scale(3.7795276)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient37218"
+       id="linearGradient1781"
+       x1="2.8346456e-08"
+       y1="2.2677165e-07"
+       x2="64"
+       y2="64"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.26458333)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient37218">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop37214" />
+      <stop
+         style="stop-color:#717171;stop-opacity:0.00392157"
+         offset="0.49741825"
+         id="stop37220" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop37216" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1709"
+       id="linearGradient950"
+       x1="7.4083333"
+       y1="16.933334"
+       x2="7.4083333"
+       y2="6.7529299e-07"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
-     id="rect846-3"
-     style="fill:url(#linearGradient1711);stroke-width:0.337527;fill-opacity:1"
-     d="m 3.175,1.5875 h 10.583333 c 0.879475,0 1.5875,0.708025 1.5875,1.5875 v 10.583333 c 0,0.879475 -0.708025,1.5875 -1.5875,1.5875 H 3.175 c -0.879475,0 -1.5875,-0.708025 -1.5875,-1.5875 V 3.175 c 0,-0.879475 0.708025,-1.5875 1.5875,-1.5875 z" />
+     id="rect863"
+     style="fill:url(#linearGradient950);stroke-width:0.264583;fill-opacity:1"
+     d="M 3.1750003,1.0583333 H 13.758333 c 1.172634,0 2.116667,0.944034 2.116667,2.116667 V 13.758333 c 0,1.172634 -0.944033,2.116667 -2.116667,2.116667 H 3.1750003 c -1.172633,0 -2.116667,-0.944033 -2.116667,-2.116667 V 3.1750003 c 0,-1.172633 0.944034,-2.116667 2.116667,-2.116667 z" />
   <path
-     id="rect846"
-     style="opacity:0.3;fill:url(#linearGradient881);stroke-width:1.27569;fill-opacity:1"
-     d="M 12 6 C 8.6760005 6 6 8.6760005 6 12 L 6 52 C 6 55.324 8.6760005 58 12 58 L 52 58 C 55.324 58 58 55.324 58 52 L 58 12 C 58 8.6760005 55.324 6 52 6 L 12 6 z M 12 7 L 52 7 C 54.77 7 57 9.23 57 12 L 57 52 C 57 54.77 54.77 57 52 57 L 12 57 C 9.23 57 7 54.77 7 52 L 7 12 C 7 9.23 9.23 7 12 7 z "
-     transform="scale(0.26458333)" />
+     id="rect1345"
+     style="opacity:0.3;fill:url(#linearGradient1781);fill-opacity:1;stroke-width:0.264583"
+     d="m 3.1750003,1.0583333 c -1.172633,0 -2.116667,0.944034 -2.116667,2.116667 V 13.758333 c 0,1.172634 0.944034,2.116667 2.116667,2.116667 H 13.758334 c 1.172633,0 2.116666,-0.944033 2.116666,-2.116667 V 3.1750003 c 0,-1.172633 -0.944033,-2.116667 -2.116666,-2.116667 z m 0,0.264584 H 13.758334 c 1.026054,0 1.852083,0.826029 1.852083,1.852083 V 13.758333 c 0,1.026054 -0.826029,1.852084 -1.852083,1.852084 H 3.1750003 c -1.026054,0 -1.852083,-0.82603 -1.852083,-1.852084 V 3.1750003 c 0,-1.026054 0.826029,-1.852083 1.852083,-1.852083 z" />
   <path
      id="path29"
      d="m 5.912022,3.7041666 c -0.1242243,-1.1e-6 -0.2246311,0.097631 -0.2246311,0.223046 v 1.9347748 c -1.1e-6,0.1242243 0.09922,0.223441 0.2246311,0.223441 H 6.0842647 L 5.6873773,6.4823162 6.0842652,6.8792055 5.6885679,11.244739 c -0.4401249,0 -0.7933683,0.353616 -0.7933683,0.792176 0,0.144056 0.043261,0.279007 0.1099364,0.396889 l -0.1103316,0.0016 -0.3968878,0.793775 h 7.9374254 l -0.396888,-0.793742 -0.111133,-0.0016 c 0.06827,-0.117881 0.11151,-0.252813 0.111532,-0.396888 0,-0.440125 -0.35559,-0.792179 -0.79415,-0.792179 L 10.848218,6.8792405 11.245107,6.4823515 10.848218,6.0854632 h 0.173826 c 0.125408,-6e-7 0.22463,-0.097633 0.22463,-0.2234405 V 3.9272472 c 2e-6,-0.1242242 -0.09764,-0.2230464 -0.22463,-0.2230464 l -0.571096,4e-7 v 0.7937422 l -0.7937414,4e-7 V 3.7042012 H 8.8634628 v 0.7937422 l -0.7937419,4e-7 5e-7,-0.793777 -0.7937427,5e-7 V 4.4979096 H 6.4822432 V 3.7041668"

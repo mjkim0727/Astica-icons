@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="application-x-osm+xml.svg"
+   sodipodi:docname="application-geo+json.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -28,9 +28,9 @@
      height="64px"
      inkscape:zoom="3.1484375"
      inkscape:cx="103.22581"
-     inkscape:cy="76.069479"
+     inkscape:cy="76.228288"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,11 +53,11 @@
        inkscape:collect="always"
        id="linearGradient40330">
       <stop
-         style="stop-color:#87ff17;stop-opacity:1"
+         style="stop-color:#1aa914;stop-opacity:1"
          offset="0"
          id="stop40326" />
       <stop
-         style="stop-color:#b6fb92;stop-opacity:1"
+         style="stop-color:#58d860;stop-opacity:1"
          offset="1"
          id="stop40328" />
     </linearGradient>
