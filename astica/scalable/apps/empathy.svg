@@ -26,9 +26,9 @@
      showgrid="false"
      units="px"
      height="48px"
-     inkscape:zoom="5.656854"
-     inkscape:cx="37.476661"
-     inkscape:cy="18.208"
+     inkscape:zoom="8"
+     inkscape:cx="4.25"
+     inkscape:cy="37.5"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -93,24 +93,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient37218"
-       id="linearGradient881"
-       x1="64.208344"
-       y1="64.062607"
-       x2="0.30528301"
-       y2="0.13507102"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4421"
-       id="linearGradient4423"
-       x1="7.4083333"
-       y1="16.404165"
-       x2="7.4083328"
-       y2="-2.7838135e-07"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient8941"
        id="linearGradient8943"
        x1="16"
@@ -129,24 +111,45 @@
        y2="24.294205"
        gradientUnits="userSpaceOnUse"
        gradientTransform="scale(3.7795276)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient37218"
+       id="linearGradient1781"
+       x1="64"
+       y1="64"
+       x2="4.5354329e-07"
+       y2="4.5354329e-07"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.26458333)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4421"
+       id="linearGradient1381"
+       x1="25.4"
+       y1="16.933334"
+       x2="25.400002"
+       y2="6.7529299e-07"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-16.933333)" />
   </defs>
   <path
-     id="rect846-3"
-     style="fill:url(#linearGradient4423);stroke-width:0.337527;fill-opacity:1;stroke:none"
-     d="m 3.175,1.5875 h 10.583333 c 0.879475,0 1.5875,0.708025 1.5875,1.5875 v 10.583333 c 0,0.879475 -0.708025,1.5875 -1.5875,1.5875 H 3.175 c -0.879475,0 -1.5875,-0.708025 -1.5875,-1.5875 V 3.175 c 0,-0.879475 0.708025,-1.5875 1.5875,-1.5875 z" />
+     id="rect863"
+     style="fill:url(#linearGradient1381);fill-opacity:1;stroke-width:0.264583"
+     d="M 3.1749993,1.0583333 H 13.758333 c 1.172634,0 2.116667,0.9440336 2.116667,2.1166668 V 13.758334 c 0,1.172633 -0.944033,2.116667 -2.116667,2.116667 H 3.1749993 c -1.172633,0 -2.116666,-0.944034 -2.116666,-2.116667 V 3.1750001 c 0,-1.1726332 0.944033,-2.1166668 2.116666,-2.1166668 z" />
   <path
-     id="rect846"
-     style="opacity:0.3;fill:url(#linearGradient881);stroke-width:1.27569;fill-opacity:1"
-     d="M 12 6 C 8.6760005 6 6 8.6760005 6 12 L 6 52 C 6 55.324 8.6760005 58 12 58 L 52 58 C 55.324 58 58 55.324 58 52 L 58 12 C 58 8.6760005 55.324 6 52 6 L 12 6 z M 12 7 L 52 7 C 54.77 7 57 9.23 57 12 L 57 52 C 57 54.77 54.77 57 52 57 L 12 57 C 9.23 57 7 54.77 7 52 L 7 12 C 7 9.23 9.23 7 12 7 z "
-     transform="scale(0.26458333)" />
+     id="rect1345"
+     style="opacity:0.3;fill:url(#linearGradient1781);fill-opacity:1;stroke-width:0.264583"
+     d="m 3.1750003,1.0583333 c -1.172634,0 -2.116667,0.9440337 -2.116667,2.116667 V 13.758334 c 0,1.172633 0.944033,2.116667 2.116667,2.116667 H 13.758335 c 1.172632,0 2.116666,-0.944034 2.116666,-2.116667 V 3.1750003 c 0,-1.1726333 -0.944034,-2.116667 -2.116666,-2.116667 z m 0,0.2645837 H 13.758335 c 1.026054,0 1.852083,0.8260291 1.852083,1.8520833 V 13.758334 c 0,1.026053 -0.826029,1.852083 -1.852083,1.852083 H 3.1750003 c -1.026055,0 -1.852084,-0.82603 -1.852084,-1.852083 V 3.1750003 c 0,-1.0260542 0.826029,-1.8520833 1.852084,-1.8520833 z" />
   <path
      id="rect849"
      style="fill:url(#linearGradient9335);fill-opacity:1;stroke-width:0.979253"
-     d="M 18.666016 17 C 17.188683 17 16 18.188683 16 19.666016 L 16 38.333984 C 16 39.811319 17.188683 41 18.666016 41 L 21.333984 41 L 21.333984 47.664062 C 21.332925 49.075829 23.23716 49.522152 23.861328 48.255859 L 29.310547 41 L 45.333984 41 C 46.811315 41 48 39.811319 48 38.333984 L 48 19.666016 C 48 18.188683 46.811315 17 45.333984 17 L 18.666016 17 z M 22 22 L 42 22 L 42 24 L 22 24 L 22 22 z M 22 28 L 42 28 L 42 30 L 22 30 L 22 28 z M 22 34 L 32 34 L 32 36 L 22 36 L 22 34 z "
-     transform="scale(0.26458333)" />
+     d="M 16.666016,17 C 15.188683,17 14,18.188683 14,19.666016 V 38.333984 C 14,39.811319 15.188683,41 16.666016,41 h 4.667968 v 6.664062 c -0.0011,1.411767 1.903176,1.85809 2.527344,0.591797 L 29.310547,41 H 47.333984 C 48.811315,41 50,39.811319 50,38.333984 V 19.666016 C 50,18.188683 48.811315,17 47.333984,17 Z M 20,22 h 24 v 2 H 20 Z m 0,6 h 24 v 2 H 20 Z m 0,6 h 12 v 2 H 20 Z"
+     transform="scale(0.26458333)"
+     sodipodi:nodetypes="ssssccccsssssccccccccccccccc" />
   <path
      id="rect849-9"
      style="opacity:0.3;fill:url(#linearGradient8943);fill-opacity:1;stroke-width:0.979253"
-     d="M 22 22 L 22 23 L 42 23 L 42 22 L 22 22 z M 22 28 L 22 29 L 42 29 L 42 28 L 22 28 z M 22 34 L 22 35 L 32 35 L 32 34 L 22 34 z M 16 38.333984 L 16 39.333984 C 16 40.811319 17.188683 42 18.666016 42 L 21.333984 42 L 21.333984 41 L 18.666016 41 C 17.188683 41 16 39.811319 16 38.333984 z M 48 38.333984 C 48 39.811319 46.811319 41 45.333984 41 L 29.310547 41 L 23.861328 48.255859 C 23.237162 49.522152 21.332926 49.075829 21.333984 47.664062 L 21.333984 48.664062 C 21.332926 50.075829 23.237162 50.522152 23.861328 49.255859 L 29.310547 42 L 45.333984 42 C 46.811319 42 48 40.811319 48 39.333984 L 48 38.333984 z "
-     transform="scale(0.26458333)" />
+     d="m 20,22 v 1 h 24 v -1 z m 0,6 v 1 h 24 v -1 z m 0,6 v 1 h 12 v -1 z m -6,4.333984 v 1 C 14,40.811319 15.188683,42 16.666016,42 h 4.667968 V 41 H 16.666016 C 15.188683,41 14,39.811319 14,38.333984 Z m 36,0 C 50,39.811319 48.811319,41 47.333984,41 H 29.310547 l -5.449219,7.255859 c -0.624166,1.266293 -2.528402,0.81997 -2.527344,-0.591797 v 1 c -0.0011,1.411767 1.903178,1.85809 2.527344,0.591797 L 29.310547,42 H 47.333984 C 48.811319,42 50,40.811319 50,39.333984 Z"
+     transform="scale(0.26458333)"
+     sodipodi:nodetypes="ccccccccccccccccssccsccsccccccssc" />
 </svg>

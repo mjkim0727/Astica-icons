@@ -6,7 +6,7 @@ Name[ko]=어두운 Astica
 Name[zh_TW]=Astica (Dark)
 Comment=Mac-like icon theme
 Comment=Mac에서 영감을 얻은 아이콘 테마
-Inherits=Breeze,Papirus,hicolor
+Inherits=astica,Breeze,Papirus,hicolor
 
 Example=folder
 FollowsColorScheme=true
