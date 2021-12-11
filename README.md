@@ -8,4 +8,9 @@ The originate of name is Malus Asiatica which is Crab apple's scientific name.(M
 
 Based on Qogir-icon-theme, WhiteSur icon theme.
 
+## Used Fonts
+
+* Mimetypes - Roboto, NanumSquare
+* Apps - Google Sans, Noto Sans CJK, Noto Serif, NanumMyeongjo, Libertinus Serif
+
 ## Preview
