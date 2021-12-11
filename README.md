@@ -1,6 +1,6 @@
 # Astica-icons
 
-![logo](astica-logo.png)
+![logo](logo.png)
 
 Astica icons is Mac-like icon pack for Linux.
 
