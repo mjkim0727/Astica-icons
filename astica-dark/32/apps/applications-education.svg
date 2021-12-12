@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666667 8.4666667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="applications-education.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="11.250001"
+     inkscape:cy="36.312502"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#98dfa1;fill-opacity:1;stroke-width:2.08359;stroke-linecap:round;stroke-linejoin:round"
+     id="rect849"
+     width="7.4083333"
+     height="7.4083333"
+     x="0.52916664"
+     y="0.52916664"
+     ry="1.0583333" />
+  <path
+     id="rect1193"
+     style="fill:#ffffff;stroke-width:2.79227;stroke-linecap:round;stroke-linejoin:round"
+     d="M 4.2333334,2.1166667 7.1437501,3.4395833 4.2333334,4.7625 1.3229167,3.4395833 Z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="rect2015"
+     style="fill:#ffffff;stroke-width:2.38125;stroke-linecap:round;stroke-linejoin:round"
+     d="M 2.3812499,4.2333331 4.2333333,5.0270834 6.0854166,4.2333331 V 5.5562497 L 4.2333333,6.35 2.3812499,5.5562497 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect2870"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:9;stroke-linecap:round;stroke-linejoin:round"
+     d="m 25,15 v 3.320312 c -0.299139,0.172463 -0.5,0.495725 -0.5,0.867188 v 2 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -2 c 0,-0.371463 -0.200861,-0.694725 -0.5,-0.867188 V 14.5 Z"
+     transform="scale(0.26458333)"
+     sodipodi:nodetypes="ccsssssccc" />
+</svg>

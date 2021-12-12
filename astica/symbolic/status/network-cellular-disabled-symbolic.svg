@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="network-cellular-disabled-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="16px"
+     showguides="false"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="-6.3749997"
+     inkscape:cy="0.18749999"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect31"
+     style="fill:#363636;fill-rule:evenodd;stroke-width:1.20871"
+     d="M 15 1 L 9.0605469 6.9394531 L 9.7675781 7.6464844 L 14 3.4140625 L 14 11.878906 L 15 12.878906 L 15 1 z M 8.3535156 7.6464844 L 7.6464844 8.3535156 L 8.3535156 9.0605469 L 9.0605469 8.3535156 L 8.3535156 7.6464844 z M 6.9394531 9.0605469 L 0 16 L 13.878906 16 L 12.878906 15 L 2.4140625 15 L 7.6464844 9.7675781 L 6.9394531 9.0605469 z "
+     transform="scale(0.26458333)" />
+  <path
+     id="rect3400"
+     style="fill:#363636;stroke-width:0.306816"
+     d="M 0.45167196,0.26458316 0.26458326,0.45167186 3.7815432,3.9688964 3.9686319,3.7818077 Z"
+     sodipodi:nodetypes="ccccc" />
+</svg>

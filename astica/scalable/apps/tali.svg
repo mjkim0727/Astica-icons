@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="gnome-tail.svg"
+   sodipodi:docname="kjumpingcube.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -42,11 +42,11 @@
        inkscape:collect="always"
        id="linearGradient3696">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#b3b3b3;stop-opacity:1"
          offset="0"
          id="stop3692" />
       <stop
-         style="stop-color:#ffaaaa;stop-opacity:1"
+         style="stop-color:#666666;stop-opacity:1"
          offset="1"
          id="stop3694" />
     </linearGradient>
@@ -66,11 +66,11 @@
        inkscape:collect="always"
        id="linearGradient903">
       <stop
-         style="stop-color:#ff8585;stop-opacity:1"
+         style="stop-color:#f6f6f6;stop-opacity:1"
          offset="0"
          id="stop899" />
       <stop
-         style="stop-color:#dc3333;stop-opacity:1"
+         style="stop-color:#e6e6e6;stop-opacity:1"
          offset="1"
          id="stop901" />
     </linearGradient>

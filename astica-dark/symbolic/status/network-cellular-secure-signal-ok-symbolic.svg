@@ -39,18 +39,18 @@
      id="defs2" />
   <path
      id="rect31"
-     style="fill:#eff0f1;fill-rule:evenodd;stroke-width:1.20871"
+     style="fill:#dedede;fill-rule:evenodd;stroke-width:1.20871"
      d="M 15 1 L 0 16 L 10 16 L 10 15 L 2.4140625 15 L 14 3.4140625 L 14 9.5507812 A 2.4999999 2.4999999 0 0 1 15 10 L 15 1 z "
      transform="scale(0.26458333)" />
   <path
      id="rect1782"
-     style="fill:#eff0f1;stroke-width:0.888888"
+     style="fill:#dedede;stroke-width:0.888888"
      d="M 9.0000002,10 5,14 h 4.0000001 z"
      transform="scale(0.26458333)"
      sodipodi:nodetypes="cccc" />
   <path
      id="rect844"
-     style="fill:#eff0f1;stroke-width:2.23606"
+     style="fill:#dedede;stroke-width:2.23606"
      d="M 13.5 10.5 A 1.5 1.5 0 0 0 12 12 L 12 13 L 11 13 L 11 16 L 16 16 L 16 13 L 15 13 L 15 12 A 1.5 1.5 0 0 0 13.5 10.5 z M 13.5 11.5 A 0.50000001 0.50000001 0 0 1 14 12 L 14 13 L 13 13 L 13 12 A 0.50000001 0.50000001 0 0 1 13.5 11.5 z "
      transform="scale(0.26458333)" />
 </svg>

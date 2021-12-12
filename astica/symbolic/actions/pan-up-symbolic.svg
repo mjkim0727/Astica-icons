@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" enable-background="new"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend mode="darken" in2="BackgroundImage"/></filter></defs><path d="M13 10L8 5l-5 5z" fill="#5d656b"/></svg>
+<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
+    <g transform='translate(-533 -97)'>
+        <path d='M546 107l-5-5-5 5z' fill='#363636'/>
+        
+    </g>
+</svg>

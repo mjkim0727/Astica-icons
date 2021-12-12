@@ -1,7 +1,11 @@
 <svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }</style>
  </defs>
- <path class="ColorScheme-Text" d="M 4.002,5 C 3.447,5 3,5.487 3,6.092 v 9.816 C 3,16.513 3.447,17 4.002,17 H 17.998 C 18.553,17 19,16.513 19,15.908 V 6.092 C 19,5.487 18.553,5 17.998,5 Z m 0.51,1 H 17.488 C 17.772,6 18,6.22 18,6.494 v 9.012 A 0.502,0.502 0 0 1 17.488,16 H 4.512 A 0.502,0.502 0 0 1 4,15.506 V 6.494 C 4,6.221 4.228,6 4.512,6 Z" fill="currentColor"/>
- <rect class="ColorScheme-Text" x="3" y="17" width="16" height="1" rx="0" ry="0" fill="currentColor"/>
+ <g transform="translate(3,3)" class="ColorScheme-Text" fill="currentColor">
+  <path d="m1 1c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h14c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2zm0 1h14c0.554 0 1 0.446 1 1v8c0 0.554-0.446 1-1 1h-14c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1z"/>
+  <path d="m-1.5 13c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h19c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-6.5254c-0.0557 0.21543-0.24129 0.37695-0.47461 0.37695h-5c-0.23332 0-0.41891-0.16152-0.47461-0.37695h-6.5254z"/>
+ </g>
 </svg>

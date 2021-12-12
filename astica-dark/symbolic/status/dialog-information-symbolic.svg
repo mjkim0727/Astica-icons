@@ -1,5 +1,5 @@
-<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m7 6v7h2v-7z" fill="#eff0f1" stroke-width="1.1832"/>
- <path d="m8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm-0.09375 1a7 7 0 0 1 0.09375 0 7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 6.9062-7z" fill="#eff0f1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".25" style="paint-order:markers stroke fill"/>
- <circle cx="8" cy="3.75" r="1.25" fill="#eff0f1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".25" stroke-width="1.25" style="paint-order:markers stroke fill"/>
+<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
+    <g transform='translate(-853 271)'>
+        <path d='M861-271a8 8 0 0 1 8 8 8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8zm0 1a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 7-7 7 7 0 0 0-7-7zm0 2.75a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5zm1 3.25v5h-2v-5h1z' fill='#dedede'/>
+    </g>
 </svg>

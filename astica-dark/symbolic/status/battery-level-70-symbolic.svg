@@ -1,7 +1,55 @@
-<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <title>Paper Symbolic Icon Theme</title>
- <g fill="#eff0f1">
-  <path d="m5 5v8h6v-8z" opacity=".35"/>
-  <path d="m6 1v1h4v-1zm-2.156 2c-0.281 0.047-0.844 0.25-0.844 1v10c0 1 1 1 1 1h8c1 0 1-1 1-1v-10s0-1-1-1h-8s-0.063-0.016-0.156 0zm0.156 1h8v10h-8zm1 3v6h6v-6z"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   enable-background="new"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="battery-level-70-symbolic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="39.375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <title
+     id="title2">Paper Symbolic Icon Theme</title>
+  <g
+     fill="#dedede"
+     id="g8">
+    <path
+       d="m 6,1 v 1 h 4 V 1 Z M 3.844,3 C 3.563,3.047 3,3.25 3,4 v 10 c 0,1 1,1 1,1 h 8 c 1,0 1,-1 1,-1 V 4 C 13,4 13,3 12,3 H 4 C 4,3 3.937,2.984 3.844,3 Z M 4,4 h 8 V 14 H 4 Z m 1,3 v 6 h 6 V 7 Z"
+       id="path6" />
+  </g>
+  <metadata
+     id="metadata831">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>

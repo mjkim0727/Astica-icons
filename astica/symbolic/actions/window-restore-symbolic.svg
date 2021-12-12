@@ -1,58 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="16"
-   height="16"
-   enable-background="new"
-   version="1.1"
-   id="svg13"
-   sodipodi:docname="window-restore-symbolic.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview15"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="39.375"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg13" />
-  <defs
-     id="defs5">
-    <filter
-       id="a"
-       color-interpolation-filters="sRGB">
-      <feBlend
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend2" />
-    </filter>
-  </defs>
-  <g
-     fill="#5d656b"
-     fill-rule="evenodd"
-     stroke-width="2"
-     stroke-linecap="square"
-     paint-order="fill markers stroke"
-     id="g11">
-    <path
-       d="m 4,6 v 6 h 6 V 6 Z m 1,1 h 4 v 4 H 5 Z"
-       id="path7" />
-    <path
-       d="m 6,4 v 1 h 5 v 5 h 1 V 4 Z"
-       id="path9"
-       sodipodi:nodetypes="ccccccc" />
-  </g>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <g color="#000" font-weight="400" font-family="sans-serif" white-space="normal" fill="#363636">
+        <path d="M4 6v6h6V6zm1 1h4v4H5z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" overflow="visible"/>
+        <path d="M6 4v1h5v5h1V4z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" overflow="visible" opacity=".5"/>
+    </g>
 </svg>
