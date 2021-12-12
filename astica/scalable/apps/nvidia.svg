@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="nvdock.svg"
+   sodipodi:docname="nvidia.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,7 +27,7 @@
      units="px"
      height="48px"
      inkscape:zoom="5.656854"
-     inkscape:cx="-2.2980971"
+     inkscape:cx="-2.1213204"
      inkscape:cy="15.821515"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -38,6 +38,18 @@
      inkscape:lockguides="true" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient912">
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0"
+         id="stop908" />
+      <stop
+         style="stop-color:#666666;stop-opacity:1"
+         offset="1"
+         id="stop910" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient37218"
@@ -64,11 +76,82 @@
          offset="1"
          id="stop37216" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1104"
+       id="linearGradient1006"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30520936,0,0,0.30960438,1.2251979,-0.23709327)"
+       x1="24.413"
+       y1="34.716999"
+       x2="48"
+       y2="34.716999" />
+    <linearGradient
+       id="linearGradient1104"
+       x1="24.413"
+       x2="48"
+       y1="34.716999"
+       y2="34.716999"
+       gradientTransform="matrix(1.1535472,0,0,1.1701583,4.6306693,1005.5039)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#36b512"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#93e62f"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4441"
+       id="linearGradient1291"
+       x1="4"
+       y1="1060.4"
+       x2="60"
+       y2="1060.4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.25,3.9575695e-7,-1270.5)" />
+    <linearGradient
+       id="linearGradient4441"
+       x2="48"
+       y1="1047.5"
+       y2="1047.5"
+       gradientTransform="matrix(1.1667,0,0,1.1626,4,-1163.5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#257b0c"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-color="#93e62f"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient912"
+       id="linearGradient914"
+       x1="12.170833"
+       y1="16.933334"
+       x2="12.170834"
+       y2="6.7529299e-07"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      id="rect863"
-     style="fill:#ffffff;stroke-width:0.264583"
+     style="fill:url(#linearGradient914);stroke-width:0.264583;fill-opacity:1"
      d="M 3.1750003,1.0583333 H 13.758333 c 1.172634,0 2.116667,0.944034 2.116667,2.116667 V 13.758333 c 0,1.172634 -0.944033,2.116667 -2.116667,2.116667 H 3.1750003 c -1.172633,0 -2.116667,-0.944033 -2.116667,-2.116667 V 3.1750003 c 0,-1.172633 0.944034,-2.116667 2.116667,-2.116667 z" />
+  <path
+     id="rect870"
+     style="fill:url(#linearGradient1291);fill-opacity:1;stroke-width:10.0623;stroke-linecap:round;stroke-linejoin:round"
+     d="M 4 50 L 4 52 C 4 56.432 7.5680001 60 12 60 L 52 60 C 56.432 60 60 56.432 60 52 L 60 50 L 4 50 z "
+     transform="scale(0.26458333)" />
+  <path
+     id="path23-7"
+     style="fill:url(#linearGradient1006);stroke-width:0.258949"
+     d="m 15.875,7.1437499 c -3.733422,0.071173 -7.1437504,2.0122884 -7.1437504,2.0122884 0,0 0.142296,1.9365647 1.153935,4.0731277 h 1.7740524 c -0.728044,-1.697778 -0.791683,-3.2504587 -0.791683,-3.2504587 0,0 1.974327,-1.7212998 5.007446,-1.7709356 z m -0.04806,2.4365478 c -0.01598,0 -0.03189,0 -0.04754,0.00265 -1.953844,0.1049337 -3.309359,0.9870273 -3.309359,0.9870273 0,0 -2.21e-4,1.296353 0.639238,2.660306 h 1.516185 c -0.456284,-0.999176 -0.467155,-1.983347 -0.467155,-1.983347 0,0 0.777101,-0.547449 1.716691,-0.619072 V 9.5829436 c -0.0158,0 -0.03208,0 -0.04806,-0.00265 z" />
   <path
      id="rect1345"
      style="opacity:0.3;fill:url(#linearGradient1781);fill-opacity:1;stroke-width:0.264583"
