@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="info.svg"
+   sodipodi:docname="preferences-system-network-ethernet.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,19 +26,19 @@
      units="px"
      height="48px"
      inkscape:zoom="7.9999995"
-     inkscape:cx="11.375001"
-     inkscape:cy="29.375002"
+     inkscape:cx="28.250002"
+     inkscape:cy="36.750002"
      inkscape:window-width="1368"
      inkscape:window-height="846"
-     inkscape:window-x="590"
-     inkscape:window-y="114"
+     inkscape:window-x="683"
+     inkscape:window-y="95"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg5"
      inkscape:lockguides="true" />
   <defs
      id="defs2" />
   <rect
-     style="opacity:1;fill:#1792e8;fill-opacity:1;stroke-width:3.12539;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#2881dc;fill-opacity:1;stroke-width:3.12539;stroke-linecap:round;stroke-linejoin:round"
      id="rect849"
      width="11.1125"
      height="11.1125"
@@ -46,7 +46,8 @@
      y="0.79374999"
      ry="1.8520833" />
   <path
-     d="m 6.3563864,3.7059913 q -0.2737069,0 -0.4707758,-0.197069 -0.1970689,-0.197069 -0.1970689,-0.4707759 0,-0.2737068 0.1970689,-0.4598274 0.1970689,-0.197069 0.4707758,-0.197069 0.2737069,0 0.4707758,0.197069 0.197069,0.1861206 0.197069,0.4598274 0,0.2737069 -0.197069,0.4707759 -0.1861207,0.197069 -0.4707758,0.197069 z M 5.8965589,4.7351292 h 0.919655 V 10.31875 h -0.919655 z"
-     style="font-size:10.5833px;line-height:1.25;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';fill:#ffffff;stroke-width:0.273707"
-     id="path24581" />
+     id="rect929"
+     style="fill:#ffffff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round"
+     d="M 12 12 C 10.892 12 10 12.892 10 14 L 10 30 C 10 31.108 10.892 32 12 32 L 17 32 L 17 34 C 17 35.108 17.892 36 19 36 L 29 36 C 30.108 36 31 35.253024 31 34 L 31 32 L 36 32 C 37.108002 32 38 31.108 38 30 L 38 14 C 38 12.892 37.108002 12 36 12 L 12 12 z M 12 14 L 36 14 L 36 30 L 29 30 L 29 34 L 19 34 L 19 30 L 12 30 L 12 14 z "
+     transform="scale(0.26458333)" />
 </svg>

@@ -103,6 +103,11 @@ Context=Places
 Size=22
 Type=Fixed
 
+[22/preferences]
+Context=Applications
+Size=22
+Type=Fixed
+
 # 24x24
 
 [24/actions]
@@ -359,6 +364,12 @@ Type=Fixed
 
 [22@2x/places]
 Context=Places
+Scale=2
+Size=22
+Type=Fixed
+
+[22@2x/preferences]
+Context=Applications
 Scale=2
 Size=22
 Type=Fixed
