@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666667 8.4666667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="battery.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="8.65625"
+     inkscape:cx="19.870036"
+     inkscape:cy="8.6642599"
+     inkscape:window-width="1368"
+     inkscape:window-height="846"
+     inkscape:window-x="544"
+     inkscape:window-y="114"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs2">
+    <filter
+       id="a"
+       color-interpolation-filters="sRGB">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend822" />
+    </filter>
+  </defs>
+  <rect
+     style="opacity:1;fill:#44de33;fill-opacity:1;stroke-width:3.12539;stroke-linecap:round;stroke-linejoin:round"
+     id="rect849"
+     width="7.4083333"
+     height="7.4083333"
+     x="0.52916664"
+     y="0.52916664"
+     ry="1.0583333" />
+  <path
+     id="path827"
+     style="fill:#ffffff;stroke-width:0.999999"
+     d="m 13,6 v 1 h 6 V 6 Z M 9.9082032,7.9941406 C 9.8892192,7.99489 9.8670002,7.9960031 9.8437502,8 c -0.281,0.046998 -0.84375,0.2500004 -0.84375,1 V 25 C 9.0000002,26.000001 10,26 10,26 h 12 c 1,0 1,-1 1,-1 V 9 C 23,9 23,8 22,8 H 10 c 0,0 -0.034844,-0.00811 -0.091797,-0.00586 z M 10,9 H 22 V 25 H 10 Z m 1,1 V 24 H 21 V 10 Z"
+     transform="scale(0.26458333)"
+     sodipodi:nodetypes="cccccscsscsccscscccccccccc" />
+</svg>
