@@ -25,11 +25,11 @@
      inkscape:document-units="px"
      showgrid="false"
      units="px"
-     inkscape:zoom="8.7173008"
-     inkscape:cx="18.813163"
-     inkscape:cy="16.576232"
+     inkscape:zoom="22.627417"
+     inkscape:cx="13.34664"
+     inkscape:cy="14.915534"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1019"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,27 +38,27 @@
      id="defs1193">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient215368">
+       id="linearGradient1266">
       <stop
-         style="stop-color:#24c2f5;stop-opacity:1"
+         style="stop-color:#3fea63;stop-opacity:1"
          offset="0"
-         id="stop215358" />
+         id="stop1256" />
       <stop
          style="stop-color:#61c23d;stop-opacity:1"
          offset="0.27922678"
-         id="stop215360" />
+         id="stop1258" />
       <stop
          style="stop-color:#64c67a;stop-opacity:1"
          offset="0.44689563"
-         id="stop215362" />
+         id="stop1260" />
       <stop
          style="stop-color:#60c9b3;stop-opacity:1"
-         offset="0.67610061"
-         id="stop215364" />
+         offset="0.623671"
+         id="stop1262" />
       <stop
          style="stop-color:#24c2f5;stop-opacity:1"
          offset="1"
-         id="stop215366" />
+         id="stop1264" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -91,26 +91,6 @@
          style="stop-color:#f7cf1f;stop-opacity:0;"
          offset="1"
          id="stop122111" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient84555">
-      <stop
-         style="stop-color:#f5cc24;stop-opacity:1"
-         offset="0"
-         id="stop84545" />
-      <stop
-         style="stop-color:#61c23d;stop-opacity:1"
-         offset="0.33805031"
-         id="stop84547" />
-      <stop
-         style="stop-color:#6bc669;stop-opacity:1"
-         offset="0.67610061"
-         id="stop84549" />
-      <stop
-         style="stop-color:#24c2f5;stop-opacity:1"
-         offset="1"
-         id="stop84553" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -168,7 +148,7 @@
        gradientTransform="scale(3.7795275)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient215368"
+       xlink:href="#linearGradient1266"
        id="linearGradient24343"
        x1="-3.1750002"
        y1="6.0854168"
@@ -208,7 +188,7 @@
        gradientTransform="scale(3.7795275)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient84555"
+       xlink:href="#linearGradient1266"
        id="linearGradient83323"
        x1="2.3812499"
        y1="8.2020836"
@@ -254,22 +234,20 @@
        y1="4.2333334"
        x2="7.9374998"
        y2="4.2333334"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(3.7795275)" />
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient215368"
+       xlink:href="#linearGradient1266"
        id="linearGradient198582"
-       x1="5.0150728"
-       y1="7.3567433"
+       x1="3.9860041"
+       y1="7.2058663"
        x2="9.5835953"
        y2="2.5544562"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(3.7795275)" />
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      id="rect82987"
-     style="opacity:1;fill:url(#linearGradient83323);fill-opacity:1;stroke-width:9;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:url(#linearGradient83323);fill-opacity:1.0;stroke-width:9;stroke-linecap:round;stroke-linejoin:round"
      d="M 16 16 L 11 30 L 26 30 C 28.216 30 30 28.216 30 26 L 30 21 L 16 16 z "
      transform="scale(0.26458333)" />
   <path
@@ -308,18 +286,27 @@
      d="M 6 2 C 5.3974379 2 4.827905 2.1325135 4.3164062 2.3691406 L 16 16 C 16 16 27.082613 3.0690027 27.683594 2.3691406 C 27.172095 2.1325135 26.602562 2 26 2 L 6 2 z "
      transform="scale(0.26458333)" />
   <path
-     id="rect121836"
-     style="opacity:0.35;fill:url(#linearGradient122115);fill-opacity:1;stroke-width:9;stroke-linecap:round;stroke-linejoin:round"
-     d="M 27.683594 2.3691406 L 16 16 L 27.683594 29.630859 C 29.053198 28.99726 30 27.613438 30 26 L 30 6 C 30 4.386562 29.053198 3.0027404 27.683594 2.3691406 z "
-     transform="scale(0.26458333)" />
-  <path
      id="rect23757"
-     style="opacity:0.35;fill:url(#linearGradient24343);fill-opacity:1;stroke-width:9;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.35;fill:url(#linearGradient24343);fill-opacity:1.0;stroke-width:9;stroke-linecap:round;stroke-linejoin:round"
      d="M 16 16 L 4.3164062 29.630859 C 4.827905 29.867487 5.3974379 30 6 30 L 26 30 C 26.602562 30 27.172095 29.867487 27.683594 29.630859 L 16 16 z "
      transform="scale(0.26458333)" />
   <path
      id="rect197633"
-     style="opacity:0.35;fill:url(#linearGradient198582);fill-opacity:1;stroke-width:9;stroke-linecap:round;stroke-linejoin:round"
-     d="M 30 11 L 16 16 L 21 30 L 26 30 C 28.216 30 30 28.216 30 26 L 30 11 z "
-     transform="scale(0.26458333)" />
+     style="opacity:0.35;fill:url(#linearGradient198582);fill-opacity:1;stroke-width:2.38125;stroke-linecap:round;stroke-linejoin:round"
+     d="M 7.9375,2.9104167 4.2333333,4.2333333 5.55625,7.9375003 h 1.3229166 c 0.5863167,0 1.0583334,-0.472017 1.0583334,-1.0583337 z" />
+  <path
+     id="rect121836"
+     style="opacity:0.35;fill:url(#linearGradient122115);fill-opacity:1;stroke-width:2.38125;stroke-linecap:round;stroke-linejoin:round"
+     d="M 7.3246179,0.62683518 4.2333333,4.2333333 7.3246179,7.8398314 c 0.362374,-0.1676397 0.612882,-0.533776 0.612882,-0.9606648 V 1.5875 c 0,-0.4268888 -0.250508,-0.79302492 -0.612882,-0.96066482 z" />
+  <path
+     id="rect1834"
+     style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke-width:1.02934"
+     d="m 2,24 v 2 c 0,2.216 1.7839999,4 4,4 h 10 l 0,-6 z"
+     transform="scale(0.26458333)"
+     sodipodi:nodetypes="cssccc" />
+  <path
+     id="rect1834-3"
+     style="opacity:0.5;fill:#4d4d4d;fill-opacity:1;stroke-width:0.272346"
+     d="m 4.2333333,6.3499999 0,1.5875 h 2.6458333 c 0.5863166,0 1.0583333,-0.4720167 1.0583333,-1.0583333 V 6.3499999 Z"
+     sodipodi:nodetypes="ccsscc" />
 </svg>
