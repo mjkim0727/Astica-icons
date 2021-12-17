@@ -169,11 +169,6 @@ Context=Applications
 Size=48
 Type=Fixed
 
-[48/places]
-Context=Places
-Size=48
-Type=Fixed
-
 # 96x96
 
 [96/places]
@@ -446,12 +441,6 @@ Type=Fixed
 
 [48@2x/apps]
 Context=Applications
-Scale=2
-Size=48
-Type=Fixed
-
-[48@2x/places]
-Context=Places
 Scale=2
 Size=48
 Type=Fixed

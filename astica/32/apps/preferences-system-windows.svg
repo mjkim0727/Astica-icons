@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="preferences.svg"
+   sodipodi:docname="preferences-system-windows.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,20 +25,20 @@
      showgrid="false"
      units="px"
      height="48px"
-     inkscape:zoom="11.541667"
-     inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-width="1368"
-     inkscape:window-height="846"
-     inkscape:window-x="544"
-     inkscape:window-y="114"
+     inkscape:zoom="7.9999995"
+     inkscape:cx="9.8125006"
+     inkscape:cy="27.750002"
+     inkscape:window-width="1365"
+     inkscape:window-height="835"
+     inkscape:window-x="131"
+     inkscape:window-y="198"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg5"
      inkscape:lockguides="true" />
   <defs
      id="defs2" />
   <rect
-     style="opacity:1;fill:#1792e8;fill-opacity:1;stroke-width:2.08359;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#a9b3ba;fill-opacity:1;stroke-width:2.08359;stroke-linecap:round;stroke-linejoin:round"
      id="rect849"
      width="7.4083333"
      height="7.4083333"
@@ -46,7 +46,8 @@
      y="0.52916664"
      ry="1.0583333" />
   <path
-     d="m 4.233607,2.2943936 q -0.2007184,0 -0.3452355,-0.1445172 -0.1445173,-0.1445173 -0.1445173,-0.3452358 0,-0.2007183 0.1445173,-0.3372066 0.1445171,-0.1445173 0.3452355,-0.1445173 0.2007185,0 0.3452356,0.1445173 0.1445172,0.1364883 0.1445172,0.3372066 0,0.2007185 -0.1445172,0.3452358 Q 4.4423541,2.2943936 4.233607,2.2943936 Z M 3.8964001,3.0490948 H 4.5708139 V 7.1437501 H 3.8964001 Z"
-     style="font-size:10.5833px;line-height:1.25;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';fill:#ffffff;stroke-width:0.200719"
-     id="path24581" />
+     id="rect2238"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+     d="M 6 8 C 5.446 8 5 8.446 5 9 L 5 23 C 5 23.554 5.446 24 6 24 L 26 24 C 26.554 24 27 23.554 27 23 L 27 9 C 27 8.446 26.554 8 26 8 L 6 8 z M 6 11 L 26 11 L 26 23 L 6 23 L 6 11 z "
+     transform="scale(0.26458333)" />
 </svg>
