@@ -6,7 +6,9 @@ Astica icons is Mac-like icon pack for Linux.
 
 The originate of name is Malus Asiatica which is Crab apple's scientific name.(Malus Asiatica -> Asiatica -> Astica)
 
-Based on Qogir-icon-theme, WhiteSur icon theme.
+## Based on
+* Qogir-icon-theme
+* WhiteSur icon theme
 
 ## Used Fonts
 
@@ -14,3 +16,7 @@ Based on Qogir-icon-theme, WhiteSur icon theme.
 * Apps - Google Sans, Noto Sans CJK, Noto Serif, NanumMyeongjo, Libertinus Serif
 
 ## Preview
+
+![preview](preview-1.png)
+
+![preview](preview-2.png)
