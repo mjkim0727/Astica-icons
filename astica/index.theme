@@ -3,7 +3,9 @@ Name=Astica
 Name[en]=Astica
 Name[ja]=Astica
 Name[ko]=Astica
+Name[zh_TW]=Astica
 Comment=Mac-like icon theme
+Comment=Mac에서 영감을 얻은 아이콘 테마
 Inherits=Breeze,Papirus,hicolor
 
 Example=folder
