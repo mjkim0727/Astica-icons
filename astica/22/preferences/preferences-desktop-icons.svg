@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208334 5.8208334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="preferences-desktop-icons.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="22.627417"
+     inkscape:cx="8.1980193"
+     inkscape:cy="13.678097"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#57b5ff;fill-opacity:1;stroke-width:2.08359;stroke-linecap:round;stroke-linejoin:round"
+     id="rect849"
+     width="5.8208332"
+     height="5.8208332"
+     x="0"
+     y="0"
+     ry="0.79374999" />
+  <path
+     id="rect925"
+     style="fill:#ffffff;stroke-width:0.264583"
+     d="m 0.79375,0.52916667 c -0.14657917,0 -0.26458333,0.1180041 -0.26458333,0.2645833 V 1.3229167 C 0.52916667,1.4694958 0.64717083,1.5875 0.79375,1.5875 H 1.3229167 C 1.4694958,1.5875 1.5875,1.4694958 1.5875,1.3229167 V 0.79374997 c 0,-0.1465792 -0.1180042,-0.2645833 -0.2645833,-0.2645833 z m 0,1.58750003 c -0.14657917,0 -0.26458333,0.1180041 -0.26458333,0.2645833 V 2.9104167 C 0.52916667,3.0569958 0.64717083,3.175 0.79375,3.175 H 1.3229167 C 1.4694958,3.175 1.5875,3.0569958 1.5875,2.9104167 V 2.38125 c 0,-0.1465792 -0.1180042,-0.2645833 -0.2645833,-0.2645833 z m 0,2.3812499 c -0.14657917,0 -0.26458333,0.1180042 -0.26458333,0.2645834 v 0.2645833 c 0,0.1465792 0.11800416,0.2645833 0.26458333,0.2645833 h 4.2333333 c 0.1465791,0 0.2645833,-0.1180041 0.2645833,-0.2645833 V 4.7625 c 0,-0.1465792 -0.1180042,-0.2645834 -0.2645833,-0.2645834 z"
+     sodipodi:nodetypes="sssssssssssssssssssssssssss" />
+</svg>

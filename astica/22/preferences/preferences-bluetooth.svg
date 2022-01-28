@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208334 5.8208334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="preferences-bluetooth.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="4.0805955"
+     inkscape:cx="-11.88552"
+     inkscape:cy="48.767392"
+     inkscape:window-width="1368"
+     inkscape:window-height="846"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#2881dc;fill-opacity:1;stroke-width:3.12539;stroke-linecap:round;stroke-linejoin:round"
+     id="rect849"
+     width="5.8208332"
+     height="5.8208332"
+     x="0"
+     y="0"
+     ry="0.79374999" />
+  <path
+     id="rect3138"
+     style="fill:#f9f9f9;stroke-width:1.80006;stroke-linecap:round;stroke-linejoin:round"
+     d="M 2.6246006,0.52916667 V 2.501656 L 1.8117757,1.8799575 1.5875,2.1522924 2.6246006,2.9238524 1.5875,3.6952638 1.8117757,3.9675986 2.6246006,3.3460488 V 5.2916666 L 4.3444129,3.8364583 3.117077,2.9238524 4.3444129,1.984375 Z M 2.9553298,1.2567709 3.8152462,1.984375 2.9553298,2.5796874 Z m 0,1.9843749 0.8599164,0.5953125 -0.8599164,0.7276041 z"
+     sodipodi:nodetypes="ccccccccccccccccccccc" />
+</svg>
