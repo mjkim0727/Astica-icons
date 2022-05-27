@@ -7,8 +7,8 @@
    viewBox="0 0 16.933333 16.933333"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="chrome-remote-desktop.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="chrome-gbchcmhmhahfdphkhkmpfmihenigjmpp-Default.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,16 +26,18 @@
      showgrid="true"
      units="px"
      height="48px"
-     inkscape:zoom="4.9813147"
-     inkscape:cx="15.056266"
-     inkscape:cy="2.5093777"
+     inkscape:zoom="14.089286"
+     inkscape:cx="40.065907"
+     inkscape:cy="31.8327"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <linearGradient
@@ -109,11 +111,6 @@
   <path
      id="rect1384"
      style="opacity:1;fill:#a5a5a5;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
-     d="m 3.7041667,5.820833 h 7.9374993 c 0.293159,0 0.529167,0.2360084 0.529167,0.5291668 v 5.8208322 c 0,0.293159 -0.236008,0.529167 -0.529167,0.529167 H 3.7041667 c -0.2931584,0 -0.5291668,-0.236008 -0.5291668,-0.529167 V 6.3499998 c 0,-0.2931584 0.2360084,-0.5291668 0.5291668,-0.5291668 z"
-     sodipodi:nodetypes="sssssssss" />
-  <path
-     id="rect1384-7"
-     style="fill:#a5a5a5;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
      d="m 3.7041667,5.820833 h 7.9374993 c 0.293159,0 0.529167,0.2360084 0.529167,0.5291668 v 5.8208322 c 0,0.293159 -0.236008,0.529167 -0.529167,0.529167 H 3.7041667 c -0.2931584,0 -0.5291668,-0.236008 -0.5291668,-0.529167 V 6.3499998 c 0,-0.2931584 0.2360084,-0.5291668 0.5291668,-0.5291668 z"
      sodipodi:nodetypes="sssssssss" />
   <rect
